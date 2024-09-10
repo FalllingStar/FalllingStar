@@ -7,7 +7,7 @@
 - I'm FrontEnd Engineer
 - Major : 💻 Computer Science and Information Engineering
 - Sophomore
-- 🇰🇷Korean
+- Korean
   
   
 ---
@@ -20,5 +20,5 @@
 <a href="링크"><img src="https://img.shields.io/badge/React-61DAF8?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-:flag_south_korea:
+:korea:
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=73&fontSize=65&descSize=20&fontColor=BDBDBD)
