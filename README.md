@@ -5,8 +5,8 @@
 <!-- -->
 ### I AM...
 - I'm FrontEnd Engineer
-- Major : Computer Science and Information Engineering
+- Major : 💻 Computer Science and Information Engineering
 - Sophomore
 - Korean
 <!-- -->
-
+### I CAN...
