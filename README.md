@@ -3,7 +3,10 @@
 
 # FalllingStar
 <!-- -->
+### I AM...
 - I'm FrontEnd Engineer
 - Major : Computer Science and Information Engineering
 - Sophomore
+- Korean
+<!-- -->
 
