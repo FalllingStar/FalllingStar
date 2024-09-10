@@ -7,6 +7,6 @@
 - I'm FrontEnd Engineer
 - Major : :Computer: Computer Science and Information Engineering
 - Sophomore
-- :south_korea: Korean
+- 🇰🇷: Korean
 <!-- -->
 
