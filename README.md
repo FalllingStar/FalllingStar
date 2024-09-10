@@ -18,3 +18,5 @@
 <a href="링크"><img src="https://img.shields.io/badge/React-61DAF8?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+
+![footer](https://capsule-render.vercel.app/api?&height=200&section=footer&text=Fortis%20Fortuna%20Adiuvat&fontSize=65&fontColor=BDBDBD)
