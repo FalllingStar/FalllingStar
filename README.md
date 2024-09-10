@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6A0888&height=200&section=header&text=SPACE%20of%20FalllingStar&fontSize=65&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6A0888&height=200&section=header&text=SPACE%20of%20FalllingStar&animation=fadeIn&fontSize=65&fontColor=FFFFFF)
 <img src="https://github.com/user-attachments/assets/440792eb-9934-4a65-a139-f5e820b1f68a" width="850" height="400"/>
 
 # FalllingStar
