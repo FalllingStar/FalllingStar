@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/440792eb-9934-4a65-a139-f5e820b1f68a" width="100%" height="400"/>
 
 <!-- -->
-# I AM...
+# 🙋‍♂️ I AM...
 - I'm FrontEnd Engineer
 - Major : 💻 Computer Science and Information Engineering
 - Sophomore
@@ -10,7 +10,7 @@
   
   
 ---
-# I CAN...
+# 🔥 I CAN...
 ### FrontEnd
 <a href="링크"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
