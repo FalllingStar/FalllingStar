@@ -3,10 +3,10 @@
 
 <!-- -->
 # 🙋‍♂️ I AM...
-- I'm FrontEnd Engineer
+- I'm FrontEnd Developer
 - Major : 💻 Computer Science and Information Engineering
 - Sophomore
-- Korean
+- 🇰🇷 Korean
   
   
 ---
