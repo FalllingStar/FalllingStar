@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6A0888&height=225&section=header&text=SPACE%20of%20FalllingStar&animation=twinkling&fontSize=60&fontColor=FFFFFF)
-<img src="https://github.com/user-attachments/assets/440792eb-9934-4a65-a139-f5e820b1f68a" width="850" height="400"/>
+<img src="https://github.com/user-attachments/assets/440792eb-9934-4a65-a139-f5e820b1f68a" width="100%" height="400"/>
 
 # FalllingStar
 <!-- -->
