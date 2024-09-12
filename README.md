@@ -25,7 +25,7 @@
 <a href="링크"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 ---
-# I DID...
+# 🤸‍♂️ I DID...
 - 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로잭트
 >공연 순서 페이지 제작(FrontEnd)
 ><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
