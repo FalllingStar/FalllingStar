@@ -7,6 +7,7 @@
 - Major : 💻 Computer Science and Information Engineering
 - Sophomore
 - 🇰🇷 Korean
+ ![FalllingStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
   
   
 ---
@@ -22,7 +23,5 @@
 <a href="링크"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=73&fontSize=65&descSize=20&fontColor=BDBDBD)
