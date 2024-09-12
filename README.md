@@ -7,6 +7,7 @@
 - Major : 💻 Computer Science and Information Engineering
 - Sophomore
 - 🇰🇷 Korean
+- My Github Stat
   <br>
   ![FalllingStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
   <br> It would be *BETTER!*
