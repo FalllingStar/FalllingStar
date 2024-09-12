@@ -9,7 +9,7 @@
 - 🇰🇷 Korean
   <br>
   ![FalllingStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
-  
+  <br> It would be *BETTER!*
   
 ---
 # 🔥 I CAN...
@@ -24,5 +24,15 @@
 <a href="링크"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+---
+# I DID...
+- 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로잭트
+>공연 순서 페이지 제작(FrontEnd)
+><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
+- 2024 멋쟁이사자처럼 해커톤(Team 개발 빠진 쥐🐀)
+>Service Name : GummyDang(산책 기록 및 리워드 서비스)
+>로그인/산책코스게시판 페이지 제작(FrontEnd)
+<br>
+*WHAT IS NEXT?*
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=73&fontSize=65&descSize=20&fontColor=BDBDBD)
