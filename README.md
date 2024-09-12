@@ -33,6 +33,7 @@
 >Service Name : GummyDang(산책 기록 및 리워드 서비스)<br>
 >로그인/산책코스게시판 페이지 제작(FrontEnd)
 <br>
+
 _WHAT IS NEXT?_
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=73&fontSize=65&descSize=20&fontColor=BDBDBD)
