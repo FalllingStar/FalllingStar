@@ -28,7 +28,7 @@
 
 ---
 # 🤸‍♂️ I DID...
-2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로잭트
+2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로잭트<br>
 >공연 순서 페이지 제작 - React(FrontEnd)
 ><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
 <br>
