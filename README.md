@@ -30,7 +30,7 @@
 >공연 순서 페이지 제작(FrontEnd)
 ><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
 - 2024 멋쟁이사자처럼 해커톤(Team 개발 빠진 쥐🐀)
->Service Name : GummyDang(산책 기록 및 리워드 서비스)
+>Service Name : GummyDang(산책 기록 및 리워드 서비스)<br>
 >로그인/산책코스게시판 페이지 제작(FrontEnd)
 <br>
 *WHAT IS NEXT?*
