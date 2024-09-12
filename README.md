@@ -28,11 +28,11 @@
 
 ---
 # 🤸‍♂️ I DID...
-- 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로젝트<br>
+- 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로젝트
 >공연 순서 페이지 제작 - React(FrontEnd)
 ><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
-<br>
-- 2024 멋쟁이사자처럼 해커톤(Team 개발 빠진 쥐🐀)<br>
+
+- 2024 멋쟁이사자처럼 해커톤(Team 개발 빠진 쥐🐀)
 >Service Name : GummyDang(산책 기록 및 리워드 서비스)<br>
 >로그인/산책코스게시판 페이지 제작 - Next.js(FrontEnd)
 <br>
