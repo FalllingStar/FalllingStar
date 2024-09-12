@@ -39,4 +39,4 @@
 
 _**WHAT IS NEXT?**_
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=70&fontSize=50&descSize=15&fontColor=BDBDBD)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&section=footer&height=300&text=Fortis%20Fortuna%20Adiuvat&desc=행운의%20여신은%20용감한%20자를%20돕는다.&descAlign=70&fontSize=50&descSize=12&fontColor=BDBDBD)
