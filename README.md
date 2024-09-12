@@ -21,6 +21,7 @@
 <a href="링크"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<a href="링크"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
 
