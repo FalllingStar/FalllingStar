@@ -4,7 +4,7 @@
 # 🙋‍♂️ I AM...
 - I'm FrontEnd Developer
 - Major : 💻 Computer Science and Information Engineering
-- Sophomore<br>
+- Junior<br>
 - 🇰🇷 Korean
 - My Github Stats
   <br>
