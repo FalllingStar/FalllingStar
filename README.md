@@ -4,7 +4,7 @@
 # 🙋‍♂️ I AM...
 - I'm FrontEnd Developer
 - Major : 💻 Computer Science and Information Engineering
-- Junior<br>
+- Senior<br>
 - 🇰🇷 Korean
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doyousung)](https://solved.ac/doyousung/)
