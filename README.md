@@ -28,29 +28,29 @@
 
 ---
 # 🤸‍♂️ I DID...
-- 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로젝트
->공연 순서 페이지 제작 - React(FrontEnd)
-><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
-
-- 2024 멋쟁이사자처럼 중앙해커톤(Team 개발 빠진 쥐🐀)
->Service Name : GummyDang(산책 기록 및 리워드 서비스)<br>
->로그인/산책코스게시판 페이지 제작 - Next.js(FrontEnd) <a href=https://github.com/KongMezu/GumiDang>More...</a>
-
-- 2024 Ganzithon :Python (Team 핫식스)
->Service Name : FLAN(가족 단위 일정 공유 계획 서비스)<br>
->로그인/회원정보/가족 공통 스케쥴 요청 페이지 제작 - VITE+REACT(FrontEnd) <a href=https://github.com/2024GanzithonPYTHON/6_Ganzi_Frontend>More...</a>
-
-- 2025 멋쟁이사자처럼 가톨릭대 해커톤연습 프로젝트(Team 1)
->Service Name : RouteEase(약속장소지정서비스 개선 프로젝트)<br>
->프론트엔드 단독 개발 - VITE+REACT(FrontEnd) <a href=https://github.com/LIKELIONCUK13th/Team1-FE>More...</a>
+- 가톨릭대학교 디지털콘텐츠 페스티벌(대상)(Team Hurri)
+>Service Name : W@ndering(성격 기반 인터랙티브 2D 스토리 게임 & 추천 서비스)<br>
+>[FrontEnd Lead] - VITE+REACT(FrontEnd) <a href=https://github.com/W-ndering>More...</a>
 
 - 2025 멋쟁이사자처럼 중앙해커톤(Team LUV BUG🐞)
 >Service Name : 시장통(스토리 기반 전통시장 소비 미션 챌린지&리워드 서비스)<br>
 >[Team Lead] 지도/점포리스트/미션 설명/영수증 인증 페이지 제작 - VITE+REACT(FrontEnd) <a href=https://github.com/Luv-Bug-likelion/LUV_BUG_FE>More...</a>
 
-- 가톨릭대학교 디지털콘텐츠 페스티벌(대상)(Team Hurri)
->Service Name : W@ndering(성격 기반 인터랙티브 2D 스토리 게임 & 추천 서비스)<br>
->[FrontEnd Lead] - VITE+REACT(FrontEnd) <a href=https://github.com/W-ndering>More...</a>
+- 2025 멋쟁이사자처럼 가톨릭대 해커톤연습 프로젝트(Team 1)
+>Service Name : RouteEase(약속장소지정서비스 개선 프로젝트)<br>
+>프론트엔드 단독 개발 - VITE+REACT(FrontEnd) <a href=https://github.com/LIKELIONCUK13th/Team1-FE>More...</a>
+
+- 2024 Ganzithon :Python (Team 핫식스)
+>Service Name : FLAN(가족 단위 일정 공유 계획 서비스)<br>
+>로그인/회원정보/가족 공통 스케쥴 요청 페이지 제작 - VITE+REACT(FrontEnd) <a href=https://github.com/2024GanzithonPYTHON/6_Ganzi_Frontend>More...</a>
+
+- 2024 멋쟁이사자처럼 중앙해커톤(Team 개발 빠진 쥐🐀)
+>Service Name : GummyDang(산책 기록 및 리워드 서비스)<br>
+>로그인/산책코스게시판 페이지 제작 - Next.js(FrontEnd) <a href=https://github.com/KongMezu/GumiDang>More...</a>
+
+- 2024 아우름제(가톨릭대학교 축제) 축제 안내 페이지 프로젝트
+>공연 순서 페이지 제작 - React(FrontEnd)
+><a href=https://github.com/likelion-cuk-festival2024/front>More...</a>
 <br>
 
 _**WHAT IS NEXT?**_
