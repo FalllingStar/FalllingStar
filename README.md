@@ -47,6 +47,10 @@
 - 2025 멋쟁이사자처럼 중앙해커톤(Team LUV BUG🐞)
 >Service Name : 시장통(스토리 기반 전통시장 소비 미션 챌린지&리워드 서비스)<br>
 >[Team Lead] 지도/점포리스트/미션 설명/영수증 인증 페이지 제작 - VITE+REACT(FrontEnd) <a href=https://github.com/Luv-Bug-likelion/LUV_BUG_FE>More...</a>
+
+- 가톨릭대학교 디지털콘텐츠 페스티벌(대상)(Team Hurri)
+>Service Name : W@ndering(성격 기반 인터랙티브 2D 스토리 게임 & 추천 서비스)<br>
+>[FrontEnd Lead] - VITE+REACT(FrontEnd) <a href=https://github.com/W-ndering>More...</a>
 <br>
 
 _**WHAT IS NEXT?**_
