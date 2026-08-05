@@ -7,8 +7,6 @@
 - Senior<br>
 - 🇰🇷 Korean
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doyousung)](https://solved.ac/doyousung/)
-  <br>
   ![FalllingStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
   <br> It would be *BETTER!*
   
