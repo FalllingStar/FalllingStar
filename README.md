@@ -6,9 +6,6 @@
 - Major : 💻 Computer Science and Information Engineering
 - Senior<br>
 - 🇰🇷 Korean
-  <br>
-  ![FalllingStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalllingStar&show_icons=true&theme=radical)
-  <br> It would be *BETTER!*
   
 ---
 # 🔥 I CAN...
